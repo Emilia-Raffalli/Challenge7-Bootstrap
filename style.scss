@@ -1,0 +1,49 @@
+
+$color-1:grey;
+
+
+
+$color-2:orange;
+
+$color-3:#01a751;
+
+$color-4:#cb92ab;
+
+
+
+
+
+
+
+
+  
+  .col-1, .col-2, .col-3, .col-4, .col-5,.col-6, .col-7, .col-8, .col-9 {
+    height: 22px;
+  }
+  
+
+  .col {
+    min-width:100px;
+
+  }
+  .bg-white {
+    background-color: #ffffff;
+  }
+  
+  .bg-cyan {
+    background-color: #05acef;
+  }
+  
+
+
+  .bg-color-2 {
+    background-color:$color-2;
+  }
+
+  .bg-color-4 {
+    background-color:$color-4;
+  }
+
+  .bg-color-3 {
+    background-color:$color-3;
+  }

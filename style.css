@@ -1,0 +1,27 @@
+.col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9 {
+  height: 22px;
+}
+
+.col {
+  min-width: 100px;
+}
+
+.bg-white {
+  background-color: #ffffff;
+}
+
+.bg-cyan {
+  background-color: #05acef;
+}
+
+.bg-color-2 {
+  background-color: orange;
+}
+
+.bg-color-4 {
+  background-color: #cb92ab;
+}
+
+.bg-color-3 {
+  background-color: #01a751;
+}/*# sourceMappingURL=style.css.map */
