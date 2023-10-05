@@ -1,5 +1,5 @@
 
-$color-1:#05acef;
+$color-1:grey;
 
 
 
@@ -15,15 +15,17 @@ $color-4:#cb92ab;
 
 
 
-div .col-9 {
-    border: 0.5px solid white;
+
+  
+  .col-1, .col-2, .col-3, .col-4, .col-5,.col-6, .col-7, .col-8, .col-9 {
+    height: 22px;
   }
   
-  .col-1, .col-2, .col-3, .col-4, .col-5, .col-9 {
-    border: 1px solid white;
-    height: 30px;
+
+  .col {
+    min-width:100px;
+
   }
-  
   .bg-white {
     background-color: #ffffff;
   }
@@ -32,6 +34,8 @@ div .col-9 {
     background-color: #05acef;
   }
   
+
+
   .bg-color-2 {
     background-color:$color-2;
   }
